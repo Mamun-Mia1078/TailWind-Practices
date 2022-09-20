@@ -1,1 +1,2 @@
 this is short notes about tailwind . 
+tailwind is work on class and its use every single property 
