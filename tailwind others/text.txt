@@ -1,3 +1,4 @@
 this is short notes about tailwind . 
 tailwind is work on class and its use every single property 
 it has many property we can memorise if we don't memorize no problem google have every class name 
+its need for small components design 
