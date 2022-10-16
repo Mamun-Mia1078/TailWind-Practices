@@ -4,8 +4,9 @@ it has many property we can memorise if we don't memorize no problem google have
 its need for small components design 
 It is Highly Customizable, it has common utility patterns, it can be optimized using purege CSS, it enables building cmplex responsive layouts frely, facilitates fluid community interaction 
 Control Over Styling, 
-2. Faster CSS Styling Process, 3. Responsiveness and Security , 
-3.  Lack of Important Components
+2. Faster CSS Styling Process, 
+3. Responsiveness and Security , 
+4.  Lack of Important Components
 
 
 
